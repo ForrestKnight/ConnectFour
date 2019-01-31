@@ -1,4 +1,4 @@
-Sudoku Solver
+Connect Four
 ==============
 
 Forrest Knight
@@ -7,7 +7,7 @@ CS 480 - Artificial Intelligence - Fall 2017
 
 *Python 3.6.0*
 
-Connect Four
+Usage
 ------------
 
 Run Command:
